@@ -37,22 +37,11 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ```js
-// TechPioneers stack
-class AboutTeam {
-  projects = {
-    "Smart Cane": "NaviCane",
-    "App": "NaviApp",
-    "Medical": "Medical Analysis App",
-    "Web": "EduTech Website",
-    "Security": "Laser Anti-theft Model"
-  };
+## 🛠️ Tools & Technologies We Use
 
-  tools = {
-    Languages: ["Python", "C++", "JavaScript", "HTML", "CSS"],
-    Platforms: ["Arduino", "ESP32", "Google Colab", "Jupyter"],
-    Databases: ["Firebase"],
-    OtherTools: ["Git", "VS Code", "GitHub"]
-  };
-}
+- 💻 **Languages:** Python · C++ · JavaScript · HTML · CSS  
+- ⚙️ **Platforms:** Arduino · ESP32 · Google Colab · Jupyter  
+- 🗄️ **Database:** Firebase  
+- 🧰 **Other Tools:** Git · VS Code · GitHub  
 
-export default AboutTeam;
+---
