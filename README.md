@@ -9,7 +9,6 @@
 ![Team Badge](https://img.shields.io/badge/TEAM-TechPioneers-blueviolet?style=for-the-badge&logo=github)
 
 </div>
-
 ---
 
 ## 🚀 Our Projects
