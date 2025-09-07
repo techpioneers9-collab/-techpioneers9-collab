@@ -36,21 +36,22 @@
 ![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
-```dart
 // TechPioneers stack
 class AboutTeam {
-  const projects = {
-    "Smart Cane" : "NaviCane",
-    "App" : "NaviApp",
-    "Medical" : "Medical Analysis App",
-    "Web" : "EduTech Website",
-    "Security" : "Laser Anti-theft Model"
+  projects = {
+    "Smart Cane": "NaviCane",
+    "App": "NaviApp",
+    "Medical": "Medical Analysis App",
+    "Web": "EduTech Website",
+    "Security": "Laser Anti-theft Model"
   };
 
-  const tools = {
-    "Languages" : { "Python", "C++", "JavaScript", "HTML", "CSS" },
-    "Platforms" : { "Arduino", "ESP32", "Google Colab", "Jupyter" },
-    "Databases" : { "Firebase" },
-    "OtherTools" : { "Git", "VS Code", "GitHub" }
+  tools = {
+    Languages: ["Python", "C++", "JavaScript", "HTML", "CSS"],
+    Platforms: ["Arduino", "ESP32", "Google Colab", "Jupyter"],
+    Databases: ["Firebase"],
+    OtherTools: ["Git", "VS Code", "GitHub"]
   };
 }
+
+export default AboutTeam;
