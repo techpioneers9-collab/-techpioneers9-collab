@@ -4,7 +4,7 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
 
 # 👩‍💻 TechPioneers Team 👨‍💻
-**AI Specialized High School Students | Building Innovative Projects**
+**AI Specialized High School Students | Building Innovative Projects | wep develepers**
 
 ![Team Badge](https://img.shields.io/badge/TEAM-TechPioneers-blueviolet?style=for-the-badge&logo=github)
 
