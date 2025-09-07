@@ -1,57 +1,43 @@
-<!---![TechPioneers Banner](https://raw.githubusercontent.com/techpioneers/techpioneers/master/images/TechPioneers-Banner.jpg)--->
+<div align="center" width="50">
 
-![TechPioneers](https://raw.githubusercontent.com/techpioneers/techpioneers/master/images/TechPioneers.svg)
-
-<p align="center">
-    <a href="https://github.com/techpioneers" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@TechPioneers-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
-    <a href="https://www.linkedin.com" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
-    <a href="https://github.com/techpioneers" target="_blank"><img alt="Website" src="https://img.shields.io/badge/-Website-0A66C2?style=flat-square&logo=Google-Chrome&logoColor=white"></a>
-</p>
-
-<p align="center">
-    <a href="https://github.com/techpioneers?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-Projects-000000?style=flat-square&logo=Plex&logoColor=white"></a>
-    <a href="https://github.com/techpioneers?tab=repositories&language=python" target="_blank"><img alt="python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
-    <a href="https://github.com/techpioneers?tab=repositories&language=c%2B%2B" target="_blank"><img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"></a>
-    <a href="https://github.com/techpioneers?tab=repositories&language=shell" target="_blank"><img alt="shell" src="https://img.shields.io/badge/-Shell-5391FE?style=flat-square&logo=PowerShell&logoColor=white"></a>
-</p>
-
-<p align="center">
-    <a href="https://github.com/techpioneers" target="_blank"><img alt="TechPioneers" src="https://badges.pufler.dev/visits/techpioneers/techpioneers?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
-    <a href="https://github.com/techpioneers/techpioneers" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/techpioneers/techpioneers?label=profile%20updated&style=flat-square"></a>
-</p>
-
----
-
-## 🚀 About Us  
-
-We are **TechPioneers**, a student team specializing in **Artificial Intelligence**.  
-Our mission is to combine **AI, IoT, and software development** to create impactful solutions that serve our community.  
-
-### 🌟 Vision  
-To be pioneers in technology and prove that student-driven ideas can create real-world impact.  
-
-### 🎯 Mission  
-- Develop innovative projects with practical applications.  
-- Bridge **software and hardware** to deliver smart solutions.  
-- Share knowledge and promote AI culture among youth.  
-
----
-
-## 🛠️ Our Projects  
-
-- 🦯 **NaviCane**: A smart blind stick powered by AI & sensors.  
-- 📱 **NaviApp**: The software/mobile version of NaviCane.  
-- 🧪 **Medical Analysis App**: Assists in analyzing and managing medical data.  
-- 🌐 **Tech Schools & Universities Website**: Platform to explore Egypt’s technological schools & universities.  
-- 🔒 **Anti-Theft Laser Model**: Prototype for enhanced security.  
-
----
+<img src="https://github.com/YourTeamName/YourTeamName/blob/main/assets/hello.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/YourTeamName/YourTeamName/blob/main/assets/team-working.gif?raw=true" alt="Team Workspace" width="40%"/><br> 
 
 <details>
-<summary>📊 Click for GitHub Stats</summary>
-<p align="center">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=techpioneers&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
-    <br>
-    <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techpioneers&hide=html,&hide_border=true&title_color=5391FE&text_color=555">
-</p>
+<p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
+
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/) <br>
+
 </details>
+
+![Totals Hits](https://komarev.com/ghpvc/?username=YourTeamName&style=flat&color=orange&label=PROFILE+VIEWS)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYourTeamName&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
+[![telegram badge](https://img.shields.io/badge/TEAM-grey?style=flat&logo=telegram)](https://t.me/yourteam) <br>
+</div>
+
+<hr></hr>
+
+![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20We%20use-orange)
+![semicolon](https://img.shields.io/badge/-%3A-orange)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+```dart
+// tools_We_use organized
+
+class About extends Team { 
+  const ourTools = {  
+    "Languages" : { "Python", "Java", "C++", "HTML", "CSS", "JavaScript" },
+    "Editors" : { "VSCode" },
+    "Platforms" : { "Linux", "Windows" },
+    "OtherTools" : { "Git", "Figma" }
+  };
+}
