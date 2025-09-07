@@ -11,7 +11,6 @@
 </div>
 
 ---
-
 ## 🚀 Our Projects
 - 🌐 **NaviCane** → Smart Blind Stick for the visually impaired.  
 - 📱 **NaviApp** → Software version of the smart cane.  
