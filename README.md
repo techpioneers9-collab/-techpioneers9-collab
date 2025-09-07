@@ -36,6 +36,7 @@
 ![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
+```js
 // TechPioneers stack
 class AboutTeam {
   projects = {
